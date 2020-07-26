@@ -5,4 +5,3 @@ This project is indended to visualized the famous N queen problem and written in
 
 
 ![Screen shot of the application](/images/readme.png)
-Format: ![Alt Text](url)
