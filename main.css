@@ -1,0 +1,40 @@
+table, td {
+  border: 2px solid white;
+  
+}
+
+h2{
+	text-align:  center;
+}
+
+.myDiv{
+	text-align: center;
+}
+
+button{
+    height:20px; 
+    width:100px; 
+    position:relative;
+    top:50%; 
+    left:45%;
+    margin-right: 50px;
+}
+
+p{
+	text-align: center;
+	text-indent
+}
+table{
+	background-color: black;
+}
+.margin{
+	margin-left: auto;
+ 	margin-right: auto;
+ 	margin-top: 35px;
+}
+
+td{
+	height: 100px;
+  width: 100px;
+}
+
