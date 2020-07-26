@@ -4,5 +4,5 @@ This project is indended to visualized the famous N queen problem and written in
 
 
 
-![Screen shot of the application](/Annotation 2020-07-26 174317.png)
+![Screen shot of the application](./Annotation 2020-07-26 174317.png)
 Format: ![Alt Text](url)
